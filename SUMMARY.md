@@ -1,14 +1,22 @@
+‌# Summary​
+​
+## Part 1 数学基础
+
 * [Part 1 数学基础](math/README.md)
   * [1. 微积分](math/calculus.md)
   * [2. 线性代数](math/linear_algebra.md)
   * [3. 概率论](math/probability.md)
   * [4. 概括](math/summary.md)
+
+## Part 2 计算机基础
 * [Part 2 计算机基础](cs/README.md)
   * [1. 数据结构与算法](cs/dsal.md)
   * [2. 计算机组成原理](cs/ca.md)
   * [3. 操作系统](cs/os.md)
   * [4. 计算机网络](cs/cn.md)
   * [5. 数据库](cs/sql.md)
+
+## Part 3 编程基础
 * [Part 3 编程基础](coding/README.md)
   * [1. 编程语言：C++/Python](coding/language/README.md)
     * [C++](coding/language/c.md)
@@ -28,11 +36,15 @@
     * [质量保障](coding/art/quality.md)
     * [项目管理](coding/art/program_management.md)
     * [高级话题](coding/art/advance_topics.md)
+
+## Part 4 机器学习与深度学习
 * [Part 4 机器学习与深度学习](mldl/README.md)
   * [1. 机器学习](mldl/ml.md)
   * [2. 深度学习](mldl/dl.md)
   * [3. 应用领域](mldl/application.md)
   * [4. 经典框架](mldl/package.md)
+
+## Part 5 算法工程交叉
 * [Part 5 算法工程交叉](cross/README.md)
   * [大规模算法运行](cross/large_scale/README.md)
     * [分布式训练](cross/large_scale/distributed_train.md)
@@ -65,5 +77,7 @@
     * [模型解释](cross/deeperAI/model_interpretation/README.md)
       * [模型解释技术](cross/deeperAI/model_interpretation/tech.md)
       * [模型解释应用](cross/deeperAI/model_interpretation/application.md)
+
+## Part 6 小结
 * [总结](summary/README.md)
 * [参考文献](reference/README.md)
