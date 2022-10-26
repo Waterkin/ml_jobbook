@@ -1,3 +1,9 @@
+<!--
+ * @Date: 2022-10-26 18:16:45
+ * @LastEditors: Waterking
+ * @LastEditTime: 2022-10-26 18:18:13
+ * @FilePath: /ml_jobbook/SUMMARY.md
+-->
 - [ml_jobbook / 算法工程师学习路线](#ml_jobbook--算法工程师学习路线)
 - [Part 1 数学基础](#part-1-数学基础)
   - [1. 微积分](#1-微积分)
